@@ -1,0 +1,8 @@
+html,
+body {	margin:0;
+		padding: 0;
+		max-width: 2000px;
+		border-box: box-sizing;}
+		
+body { background-color: #000;
+		color: #fff;}
