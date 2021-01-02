@@ -5,4 +5,46 @@ body {	margin:0;
 		border-box: box-sizing;}
 		
 body { background-color: #000;
-		color: #fff;}
+		color: #fff;
+		}
+		
+main {text-align: center; }
+		
+header h1 {	font-family: Verdana;
+			font-weight: normal;
+			font-size: 50px;
+			color: #fff;
+			text-align: center;}
+			
+.download-link { margin: 30px auto;}
+			
+.download-link a {	color: Aquamarine;
+					font-family: Verdana;
+					font-size: 16px;}
+					
+.travel-section h2, 
+.smartPhone-section h2 {	font-family: Verdana;
+						font-weight: 300px;
+						font-size: 42px;}
+						
+.travel-section p {	font-family: Verdana;
+					font-size: 21px;
+					color: #b9b9b9;}
+					
+.travel-img-container { margin: 20px auto;}
+					
+.travel-img-container img {
+	width: 71%;
+}
+
+.smartPhone-section { 
+					  padding-top:10px;}
+
+.smartPhone-section h2 {font-weight: normal;}
+
+footer p { color: #b9b9b9;
+			font-family: Verdana;
+			font-size: 20px;
+			padding-right: 12px;
+			text-align: right;}
+					
